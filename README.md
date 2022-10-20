@@ -9,5 +9,5 @@ Salah satu bentuk aksi yang dilakukan oleh pemerintah adalah dengan mengumpulkan
 Data yang digunakan adalah data yang disediakan di portal covid19.go.id. Adapun cara untuk mengambil data dari portal tersebut secara langsung adalah dengan menggunakan Application Programming Interface (API). Secara sederhana, API dapat dipahami sebagai cara komputer untuk berkomunikasi dengan komputer lainnya sehingga dapat terjadi transaksi pertukaran data.
 
 #Mengakses API COVID-19
-[image.png]({https://user-images.githubusercontent.com/116127875/196951668-ebfd0769-e8bb-4101-9b22-f1ff15574db0.png})
+[image.png](https://user-images.githubusercontent.com/116127875/196951668-ebfd0769-e8bb-4101-9b22-f1ff15574db0.png)
 
